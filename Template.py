@@ -12,6 +12,17 @@ Output: return value and description
 """
 
 def main():
+    '''
     # code here
+    myList = [car('make','model,2020'),car()]
+    #mylist = []
+    #for i in range (5)
+    #getmake
+    #getmodel
+    #getyeat
+    #mylist.append(car(mak,model,year))
+    '''
+
+    
 
 main()    
